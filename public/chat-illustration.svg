@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500">
+    <!-- یک SVG ساده برای نمایش چت -->
+    <rect x="50" y="50" width="400" height="300" rx="20" fill="#e6f7ff" stroke="#3498db" stroke-width="3"/>
+    <circle cx="100" cy="100" r="30" fill="#3498db"/>
+    <rect x="150" y="90" width="250" height="20" rx="10" fill="#c6e6ff"/>
+    <circle cx="400" cy="200" r="30" fill="#9b59b6"/>
+    <rect x="100" y="190" width="250" height="20" rx="10" fill="#e8daef"/>
+    <rect x="100" y="230" width="300" height="20" rx="10" fill="#e8daef"/>
+  </svg>
